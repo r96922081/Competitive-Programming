@@ -1,0 +1,386 @@
+﻿  helper.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\helper.cpp(100,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\helper.cpp(214,2): warning C4091: 'static ': ignored on left of 'SegmentTree' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\helper.cpp(276,2): warning C4091: 'static ': ignored on left of 'BinaryIndexTree' when no variable is declared
+  uva10004.cpp
+  uva10102.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10102.cpp(30,2): warning C4091: 'static ': ignored on left of 'cell' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10102.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10102.cpp(65,22): warning C4018: '<': signed/unsigned mismatch
+  uva10107.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10107.cpp(100,20): warning C4018: '<': signed/unsigned mismatch
+  uva10114.cpp
+  uva10141.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10141.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10141.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+  uva10172.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10172.cpp(87,53): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10172.cpp(103,78): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10172.cpp(163,20): warning C4018: '<': signed/unsigned mismatch
+  uva10189.cpp
+  uva10258.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10258.cpp(31,2): warning C4091: 'static ': ignored on left of 'Score' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10258.cpp(38,2): warning C4091: 'static ': ignored on left of 'Problem' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10258.cpp(198,20): warning C4018: '<': signed/unsigned mismatch
+  uva10264.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10264.cpp(119,20): warning C4018: '<': signed/unsigned mismatch
+  uva10284.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10284.cpp(63,21): warning C4018: '<': signed/unsigned mismatch
+  uva103.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva103.cpp(32,2): warning C4091: 'static ': ignored on left of 'TreeNode' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva103.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva103.cpp(126,21): warning C4018: '<': signed/unsigned mismatch
+  uva10305.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10305.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10305.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+  uva10306.cpp
+  uva10337.cpp
+  uva10341.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10341.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+  uva10443.cpp
+  uva1047.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1047.cpp(40,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1047.cpp(113,22): warning C4018: '<': signed/unsigned mismatch
+  uva10487.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10487.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10487.cpp(47,26): warning C4018: '<': signed/unsigned mismatch
+  uva10496.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10496.cpp(41,2): warning C4091: 'static ': ignored on left of 'queue_node' when no variable is declared
+  Compiling...
+  uva10503.cpp
+  uva10507.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10507.cpp(82,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10507.cpp(196,2): warning C4091: 'static ': ignored on left of 'SegmentTree' when no variable is declared
+  uva10567.cpp
+  uva10576.cpp
+  uva1061.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(31,2): warning C4091: 'static ': ignored on left of 'cmp' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(113,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(116,23): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(120,24): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(122,25): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(179,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(183,23): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(185,24): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(189,25): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1061.cpp(246,20): warning C4018: '<': signed/unsigned mismatch
+  uva10616.cpp
+  uva1062.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1062.cpp(99,20): warning C4018: '<': signed/unsigned mismatch
+  uva10646.cpp
+  uva10656.cpp
+  uva10660.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10660.cpp(30,2): warning C4091: 'static ': ignored on left of 'cell' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10660.cpp(74,26): warning C4018: '<': signed/unsigned mismatch
+  uva10684.cpp
+  uva10718.cpp
+  uva10721.cpp
+  uva10755.cpp
+  uva10765.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10765.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10765.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10765.cpp(143,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10765.cpp(168,21): warning C4018: '<': signed/unsigned mismatch
+  uva108.cpp
+  uva10812.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10812.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+  uva10813.cpp
+  uva10819.cpp
+  uva10827.cpp
+  Compiling...
+  uva10855.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10855.cpp(166,20): warning C4018: '<': signed/unsigned mismatch
+  uva10895.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10895.cpp(68,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10895.cpp(170,20): warning C4018: '<': signed/unsigned mismatch
+  uva10901.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10901.cpp(35,2): warning C4091: 'static ': ignored on left of 'Car' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10901.cpp(42,2): warning C4091: 'static ': ignored on left of 'InputCar' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10901.cpp(64,72): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10901.cpp(72,73): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10901.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+  uva10920.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10920.cpp(56,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10920.cpp(57,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10920.cpp(60,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10920.cpp(61,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10920.cpp(62,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10920.cpp(128,20): warning C4018: '<': signed/unsigned mismatch
+  uva10945.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10945.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+  uva10954.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10954.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+  uva10976.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva10976.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+  uva11034.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11034.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+  uva11057.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11057.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+  uva11060.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11060.cpp(73,24): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11060.cpp(88,21): warning C4018: '<': signed/unsigned mismatch
+  uva11080.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11080.cpp(68,24): warning C4018: '<': signed/unsigned mismatch
+  uva11094.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11094.cpp(81,11): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type '_Ty *'
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11094.cpp(81,11): warning C4477:         with
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11094.cpp(81,11): warning C4477:         [
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11094.cpp(81,11): warning C4477:             _Ty=int
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11094.cpp(81,11): warning C4477:         ]
+  uva11100.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11100.cpp(68,14): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11100.cpp(89,13): warning C4018: '<': signed/unsigned mismatch
+  uva11136.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11136.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+  uva11157.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11157.cpp(66,21): warning C4018: '<': signed/unsigned mismatch
+  uva11172.cpp
+  uva11195.cpp
+  uva11221.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11221.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11221.cpp(55,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11221.cpp(61,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11221.cpp(72,21): warning C4018: '<': signed/unsigned mismatch
+  uva11228.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11228.cpp(31,2): warning C4091: 'static ': ignored on left of 'DisjointElement' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11228.cpp(109,2): warning C4091: 'static ': ignored on left of 'edge' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11228.cpp(114,2): warning C4091: 'static ': ignored on left of 'node' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11228.cpp(120,2): warning C4091: 'static ': ignored on left of 'group_struct' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11228.cpp(136,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11228.cpp(153,54): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11228.cpp(222,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11228.cpp(226,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  uva11235.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11235.cpp(68,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11235.cpp(161,2): warning C4091: 'static ': ignored on left of 'SegmentTree' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11235.cpp(223,2): warning C4091: 'static ': ignored on left of 'BinaryIndexTree' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11235.cpp(235,2): warning C4091: 'static ': ignored on left of 'NumberInfo' when no variable is declared
+  Compiling...
+  uva11236.cpp
+  uva11242.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11242.cpp(44,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11242.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
+  uva11264.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11264.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+  uva11292.cpp
+  uva11340.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11340.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11340.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11340.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+  uva11389.cpp
+  uva11402.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11402.cpp(82,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11402.cpp(195,2): warning C4091: 'static ': ignored on left of 'SegmentTree' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11402.cpp(295,2): warning C4091: 'static ': ignored on left of 'BinaryIndexTree' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11402.cpp(306,2): warning C4091: 'static ': ignored on left of 'NumberInfo' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11402.cpp(331,23): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11402.cpp(547,15): warning C4018: '<=': signed/unsigned mismatch
+  uva11450.cpp
+  uva11459.cpp
+  uva11498.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11498.cpp(7,10): warning C4101: 't2': unreferenced local variable
+  uva11503.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11503.cpp(91,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11503.cpp(207,2): warning C4091: 'static ': ignored on left of 'SegmentTree' when no variable is declared
+  uva11504.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11504.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11504.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+  uva11507.cpp
+  uva11517.cpp
+  uva11553.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11553.cpp(40,22): warning C4018: '<': signed/unsigned mismatch
+  uva11565.cpp
+  uva11566.cpp
+  uva11572.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11572.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11572.cpp(120,20): warning C4018: '<': signed/unsigned mismatch
+  uva11581.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11581.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+  uva11631.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11631.cpp(15,2): warning C4091: 'static ': ignored on left of 'Edge' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11631.cpp(23,2): warning C4091: 'static ': ignored on left of 'compare' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11631.cpp(89,35): warning C4018: '<': signed/unsigned mismatch
+  Compiling...
+  uva11727.cpp
+  uva11779.cpp
+  uva11790.cpp
+  uva11831.cpp
+  uva11838.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11838.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+  uva11849.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11849.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+  uva11902.cpp
+  uva11906.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11906.cpp(46,2): warning C4091: 'static ': ignored on left of 'MyPair' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11906.cpp(124,22): warning C4018: '<': signed/unsigned mismatch
+  uva11926.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11926.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11926.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11926.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11926.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11926.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11926.cpp(114,25): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11926.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+  uva11933.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11933.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+  uva11947.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11947.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+  uva11951.cpp
+  uva11988.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11988.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11988.cpp(113,20): warning C4018: '<': signed/unsigned mismatch
+  uva11991.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11991.cpp(82,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11991.cpp(92,2): warning C4091: 'static ': ignored on left of 'SegmentTreeNode' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11991.cpp(206,2): warning C4091: 'static ': ignored on left of 'SegmentTree' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11991.cpp(233,35): warning C4018: '<': signed/unsigned mismatch
+  uva11995.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva11995.cpp(171,20): warning C4018: '<': signed/unsigned mismatch
+  uva1203.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1203.cpp(35,2): warning C4091: 'static ': ignored on left of 'task' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1203.cpp(131,20): warning C4018: '<': signed/unsigned mismatch
+  uva12032.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12032.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+  uva12060.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12060.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12060.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+  uva12085.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12085.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12085.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12085.cpp(133,20): warning C4018: '<': signed/unsigned mismatch
+  uva12192.cpp
+  Compiling...
+  uva12210.cpp
+  uva12247.cpp
+  uva12356.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12356.cpp(69,2): warning C4091: 'static ': ignored on left of 'SegmentManager' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12356.cpp(148,20): warning C4018: '<': signed/unsigned mismatch
+  uva1237.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva1237.cpp(66,22): warning C4018: '<': signed/unsigned mismatch
+  uva12405.cpp
+  uva12442.cpp
+  uva12455.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12455.cpp(43,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  uva12532.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12532.cpp(82,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12532.cpp(144,2): warning C4091: 'static ': ignored on left of 'BinaryIndexTree' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12532.cpp(181,2): warning C4091: 'static ': ignored on left of 'NumberInfo' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva12532.cpp(326,15): warning C4018: '<=': signed/unsigned mismatch
+  uva1260.cpp
+  uva1262.cpp
+  uva146.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva146.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva146.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+  uva156.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva156.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva156.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva156.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+  uva161.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva161.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva161.cpp(74,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva161.cpp(83,22): warning C4018: '<': signed/unsigned mismatch
+  uva183.cpp
+  uva193.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva193.cpp(35,39): warning C4018: '<=': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva193.cpp(40,19): warning C4018: '>': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva193.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+  uva195.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva195.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+  uva216.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva216.cpp(31,2): warning C4091: 'static ': ignored on left of 'node' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva216.cpp(45,2): warning C4091: 'static ': ignored on left of 'path' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva216.cpp(105,24): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva216.cpp(142,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva216.cpp(152,21): warning C4018: '<': signed/unsigned mismatch
+  uva247.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva247.cpp(134,21): warning C4018: '<': signed/unsigned mismatch
+  uva278.cpp
+  uva315.cpp
+  Compiling...
+  uva357.cpp
+  uva401.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva401.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+  uva403.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva403.cpp(77,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva403.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva403.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva403.cpp(120,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva403.cpp(175,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva403.cpp(199,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva403.cpp(402,20): warning C4018: '<': signed/unsigned mismatch
+  uva416.cpp
+  uva441.cpp
+  uva454.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva454.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva454.cpp(76,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva454.cpp(119,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva454.cpp(155,21): warning C4018: '<': signed/unsigned mismatch
+  uva462.cpp
+  uva469.cpp
+  uva481.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva481.cpp(99,20): warning C4018: '<': signed/unsigned mismatch
+  uva489.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva489.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva489.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+  uva507.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva507.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
+  uva514.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva514.cpp(120,20): warning C4018: '<': signed/unsigned mismatch
+  uva524.cpp
+  uva556.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva556.cpp(241,20): warning C4018: '<': signed/unsigned mismatch
+  uva573.cpp
+  uva574.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva574.cpp(31,2): warning C4091: 'static ': ignored on left of 'Answer' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva574.cpp(36,2): warning C4091: 'static ': ignored on left of 'compare' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva574.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+  uva579.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva579.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+  uva584.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva584.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+  uva599.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva599.cpp(82,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva599.cpp(175,20): warning C4018: '<': signed/unsigned mismatch
+  uva608.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva608.cpp(32,2): warning C4091: 'static ': ignored on left of 'cmp' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva608.cpp(229,20): warning C4018: '<': signed/unsigned mismatch
+  Compiling...
+  uva624.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva624.cpp(80,21): warning C4018: '<': signed/unsigned mismatch
+  uva637.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva637.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+  uva696.cpp
+  uva732.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva732.cpp(38,9): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva732.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva732.cpp(72,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva732.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+  uva735.cpp
+  uva750.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva750.cpp(93,21): warning C4018: '<': signed/unsigned mismatch
+  uva793.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva793.cpp(82,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva793.cpp(90,2): warning C4091: 'static ': ignored on left of 'SegmentTreeNode' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva793.cpp(183,2): warning C4091: 'static ': ignored on left of 'SegmentTree' when no variable is declared
+  uva796.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva796.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva796.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva796.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva796.cpp(138,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva796.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+  uva872.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva872.cpp(141,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva872.cpp(148,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva872.cpp(163,23): warning C4018: '<': signed/unsigned mismatch
+  uva893.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva893.cpp(158,20): warning C4018: '<': signed/unsigned mismatch
+  uva927.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva927.cpp(60,21): warning C4018: '<': signed/unsigned mismatch
+  uva978.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\C++\UvaOnlineJudge\Code\uva978.cpp(148,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1357 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UvaOnlineJudge.vcxproj -> D:\Github\Competitive-Programming\UvaOnlineJudge\C++\Release\UvaOnlineJudge.exe
