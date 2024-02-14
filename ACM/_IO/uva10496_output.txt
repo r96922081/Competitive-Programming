@@ -1,3 +1,0 @@
-The shortest path has length 4
-The shortest path has length 8
-The shortest path has length 24
