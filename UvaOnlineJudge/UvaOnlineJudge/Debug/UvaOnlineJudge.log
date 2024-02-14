@@ -1,0 +1,8 @@
+﻿  uva11402.cpp
+D:\Github\Competitive-Programming\UvaOnlineJudge\UvaOnlineJudge\Code\uva11402.cpp(82,2): warning C4091: 'static ': ignored on left of 'UnionFind' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\UvaOnlineJudge\Code\uva11402.cpp(195,2): warning C4091: 'static ': ignored on left of 'SegmentTree' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\UvaOnlineJudge\Code\uva11402.cpp(295,2): warning C4091: 'static ': ignored on left of 'BinaryIndexTree' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\UvaOnlineJudge\Code\uva11402.cpp(306,2): warning C4091: 'static ': ignored on left of 'NumberInfo' when no variable is declared
+D:\Github\Competitive-Programming\UvaOnlineJudge\UvaOnlineJudge\Code\uva11402.cpp(331,23): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Competitive-Programming\UvaOnlineJudge\UvaOnlineJudge\Code\uva11402.cpp(547,15): warning C4018: '<=': signed/unsigned mismatch
+  UvaOnlineJudge.vcxproj -> D:\Github\Competitive-Programming\UvaOnlineJudge\Debug\UvaOnlineJudge.exe
